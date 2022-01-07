@@ -1,0 +1,12 @@
+Chen-Patrick-p1:
+total 168
+-rw-r--r--. 1 myid   286 Jul 12 11:24 Makefile
+-rw-r--r--. 1 myid  3617 Jul 11 20:32 Matrix.cpp
+-rw-r--r--. 1 myid  1437 Jul 11 20:29 Matrix.h
+-rw-r--r--. 1 myid 38904 Jul 12 11:28 Matrix.o
+-rwxr-xr-x. 1 myid 54600 Jul 12 11:28 p1
+-rw-r--r--. 1 myid  5368 Jul 12 11:23 p1.cpp
+-rw-r--r--. 1 myid 48616 Jul 12 11:28 p1.o
+-rw-r--r--. 1 myid   144 Jul 12 11:35 README.md
+-rw-r--r--. 1 myid     0 Jul 12 11:38 rec18354
+/home/myid/pgc19941/Chen-Patrick-p1:/home/myid/csci-1730
